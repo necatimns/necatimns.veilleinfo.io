@@ -1,0 +1,28 @@
+h1,
+body {
+    background-image: url(https://images.hdqwalls.com/wallpapers/geek-dark-cubes-abstract-4k-cs.jpg);
+    color: #FFED01;
+}
+
+h1,
+h2 {
+    text-align: center;
+}
+
+a {
+    color: #fff;
+}
+
+p {
+    padding: 5% 10%;
+    font-size: 20px;
+}
+
+h1 {
+    margin: 10% 10%;
+    font-size: 100px;
+}
+
+h2 {
+    font-size: 30px;
+}
